@@ -236,4 +236,4 @@ This repository serves as the official landing page for Tarzan: Guardian of Eart
 **Get the most recent version of Tarzan: Guardian of Earth today!**
 
 ---
-**Last updated:** 2026-09-11 18:22:00 UTC
+**Last updated:** 2026-09-11 21:36:33 UTC
